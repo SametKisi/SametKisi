@@ -31,4 +31,7 @@ A bulk email campaign tool for sending personalized emails to large recipient li
 
 e-mail : samet12kisi@gmail.com
 
+### 💼 Work With Me
 
+Looking to collaborate or need freelance work? You can hire me directly through my freelance profile:  
+👉 **[Bionluk Profile](https://bionluk.com/sametkisi)**
