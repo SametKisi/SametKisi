@@ -19,8 +19,11 @@ Frontend / full-stack developer — building real-time apps and going deep on au
 **[📬 Gmail Clone](https://github.com/SametKisi/gmail.clone)**
 A full-stack Gmail clone with real inbox behavior — compose, folders, trash, starring, live "new mail" updates via Supabase Realtime, and sending real email through the Gmail API (OAuth2).
 
-**[💬 Osso — Real-Time Chat App](https://osso-chat.vercel.app)**
+**[💬 Osso — Real-Time Chat App](https://github.com/SametKisi/chat-app)**
 A messenger app with real-time 1:1 and group chats, read receipts, online presence, and web push notifications via Firebase Cloud Messaging.
+
+**[📧 Mail Go](https://github.com/SametKisi/Mail-Go)**
+A bulk email campaign tool for sending personalized emails to large recipient lists, with CSV upload, delivery tracking, and a campaign archive.
 
 ---
 
