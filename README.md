@@ -26,8 +26,6 @@ A messenger app with real-time 1:1 and group chats, read receipts, online presen
 
 ### 📫 Reach Me
 
-Feel free to check out my repositories or reach out through GitHub.
+e-mail : samet12kisi@gmail.com
 
-<!--
-💡 Update the project links above with your actual repo URLs.
--->
+
