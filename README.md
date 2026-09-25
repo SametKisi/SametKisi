@@ -22,7 +22,7 @@ A full-stack Gmail clone with real inbox behavior — compose, folders, trash, s
 **[💬 Osso — Real-Time Chat App](https://github.com/SametKisi/chat-app)**
 A messenger app with real-time 1:1 and group chats, read receipts, online presence, and web push notifications via Firebase Cloud Messaging.
 
-**[📧 Mail Go](https://github.com/SametKisi/Mail-Go)**
+**[📧 Mail Go](https://github.com/SametKisi/MailGo)**
 A bulk email campaign tool for sending personalized emails to large recipient lists, with CSV upload, delivery tracking, and a campaign archive.
 
 ---
