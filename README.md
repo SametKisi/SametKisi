@@ -4,7 +4,7 @@
 Frontend / full-stack developer — building real-time apps and going deep on auth architecture, state management, and API integration.
 </p>
 
-**Live Demo:** https://osso-chat.vercel.app](https://gmail-clone-omega-three.vercel.app
+**Live Demo:** https://gmail-clone-omega-three.vercel.app
 
 ---
 
