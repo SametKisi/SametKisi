@@ -2,6 +2,7 @@
 
 <p align="center">
 Frontend / full-stack developer — building real-time apps and going deep on auth architecture, state management, and API integration.
+  **[Portfolio](https://www.sametkisi.com.tr/))**
 </p>
 
 ---
@@ -25,7 +26,7 @@ A messenger app with real-time 1:1 and group chats, read receipts, online presen
 **[📧 Mail Go](https://github.com/SametKisi/MailGo)**
 A bulk email campaign tool for sending personalized emails to large recipient lists, with CSV upload, delivery tracking, and a campaign archive.
 
-**[🎵 TuneFlex](https://tune-flex-eight.vercel.app/)**
+**[🎵 TuneFlex]([https://tune-flex-eight.vercel.app/](https://github.com/SametKisi/TuneFlex)**
 
 ---
 
