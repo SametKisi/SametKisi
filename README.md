@@ -2,10 +2,11 @@
 
 <p align="center">
 Frontend / full-stack developer — building real-time apps and going deep on auth architecture, state management, and API integration.
-  
-**[Portfolio](https://www.sametkisi.com.tr/)**
-</p>
 
+  
+
+</p>
+<div align="center">**[Portfolio](https://www.sametkisi.com.tr/)**</div>
 ---
 
 ### 🛠️ Tech Stack
