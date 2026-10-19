@@ -2,7 +2,8 @@
 
 <p align="center">
 Frontend / full-stack developer — building real-time apps and going deep on auth architecture, state management, and API integration.
-  **[Portfolio](https://www.sametkisi.com.tr/)**
+  
+**[Portfolio]([https:/Samet](https://www.sametkisi.com.tr/))**
 </p>
 
 ---
