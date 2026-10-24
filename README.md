@@ -6,7 +6,7 @@ Frontend / full-stack developer — building real-time apps and going deep on au
   
 
 </p>
-<p align="center">**[📬 Gmail Clone](https://github.com/SametKisi/gmail.clone)**</p>
+**[📬 Gmail Clone](https://github.com/SametKisi/gmail.clone)**
 ---
 
 ### 🛠️ Tech Stack
