@@ -6,7 +6,7 @@ Frontend / full-stack developer — building real-time apps and going deep on au
   
 
 </p>
-<div align="center">**[Portfolio](https://www.sametkisi.com.tr/)**</div>
+<div align="center"><link title="portfolio" to="https://www.sametkisi.com.tr"></link></div>
 ---
 
 ### 🛠️ Tech Stack
